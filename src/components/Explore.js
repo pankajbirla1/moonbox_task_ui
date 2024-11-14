@@ -18,7 +18,7 @@ function Explore() {
                     <p className='text-[#d5a53f] font-montserrat text-base pt-6'><span className='text-white'>MoonBoxes.io</span>offers you a complete overview of upcoming, active and recent NFT drops.</p>
                     <p className='text-[#d5a53f] font-montserrat text-base pt-6'><span className='text-white'>MoonBoxes.io</span>will be home to collectors and amazing NFT artists.</p>
                     <div className='py-6'>
-                        <button className='text-black font-montserrat bg-[#d5a53f] font-bold py-2 px-12 rounded-full'>
+                        <button className='text-black font-montserrat bg-[#d5a53f] hover:bg-white font-bold py-2 px-12 rounded-full'>
                          Explore
                         </button> 
                     </div>

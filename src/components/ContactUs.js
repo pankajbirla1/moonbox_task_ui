@@ -14,10 +14,10 @@ function ContactUs() {
                  </h1>
                   {/* Button */}
                 <div className='py-6'>
-                  <button className='text-[#d5a53f] border border-[#d5a53f] font-montserrat bg-[#0b0c15] font-bold py-2 px-12 rounded-full mr-2'>
+                  <button className='text-[#d5a53f] border border-[#d5a53f] font-montserrat hover:bg-white hover:text-black bg-[#0b0c15] font-bold py-2 px-12 rounded-full mr-2'>
                     Contact Us
                   </button> 
-                  <button className='text-black font-montserrat bg-[#d5a53f] font-bold py-2 px-6 mt-4  rounded-full'>
+                  <button className='text-black font-montserrat hover:bg-white bg-[#d5a53f] font-bold py-2 px-6 mt-4  rounded-full'>
                     Application From
                   </button> 
                 </div>

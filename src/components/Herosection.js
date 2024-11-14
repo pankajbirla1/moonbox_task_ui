@@ -35,7 +35,7 @@ function Herosection() {
               </p>
               {/* Button */}
               <div className='py-6 flex gap-4 lg:gap-6'>
-                <button className='text-black font-montserrat bg-[#d5a53f] font-bold py-2 px-8 rounded-full'>
+                <button className='text-black font-montserrat hover:bg-white bg-[#d5a53f] font-bold py-2 px-8 rounded-full'>
                   Buy A MoonBox
                 </button> 
                 <a href='#slider'>
